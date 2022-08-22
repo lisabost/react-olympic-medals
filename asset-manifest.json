@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/react-olympic-medals/static/css/main.5b0f5f7d.css",
-    "main.js": "/react-olympic-medals/static/js/main.2d33dd5e.js",
+    "main.css": "/react-olympic-medals/static/css/main.55764ba5.css",
+    "main.js": "/react-olympic-medals/static/js/main.af4cd097.js",
     "static/js/787.bbca4e6b.chunk.js": "/react-olympic-medals/static/js/787.bbca4e6b.chunk.js",
     "index.html": "/react-olympic-medals/index.html",
-    "main.5b0f5f7d.css.map": "/react-olympic-medals/static/css/main.5b0f5f7d.css.map",
-    "main.2d33dd5e.js.map": "/react-olympic-medals/static/js/main.2d33dd5e.js.map",
+    "main.55764ba5.css.map": "/react-olympic-medals/static/css/main.55764ba5.css.map",
+    "main.af4cd097.js.map": "/react-olympic-medals/static/js/main.af4cd097.js.map",
     "787.bbca4e6b.chunk.js.map": "/react-olympic-medals/static/js/787.bbca4e6b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5b0f5f7d.css",
-    "static/js/main.2d33dd5e.js"
+    "static/css/main.55764ba5.css",
+    "static/js/main.af4cd097.js"
   ]
 }
